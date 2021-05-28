@@ -5,6 +5,4 @@
 
 🔭 I’m currently a Year 2 Computer Science Major at **The Chinese University of Hong Kong**
 
-👾 CSCI3251 taught me how to finally use GitHub!
-
 ⚡ Nice to meet you all!
